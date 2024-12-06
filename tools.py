@@ -5,11 +5,11 @@ from colorama import Fore, Style
 
 def print_ascii_art():
     ascii_art = r"""
-   __       _        _      _    _      __
-  / _/_  _/ /_  _/ /_  / /   //_/ /
-  \_ \/ / / / _ \/ _  / _ \/ /   / / _/ __/
- _/ / // / // / // / // / /_/ /_  / /  
-/_/\,/._/\,/\_/_//_/\_/  
+ SSS  U   U  BBBB   DDDD   OOO   DDDD   III  PPPP   AAAAA
+S     U   U  B   B  D   D O   O  D   D   I   P   P  A   A
+ SSS  U   U  BBBB   D   D O   O  D   D   I   PPPP   AAAAA
+    S U   U  B   B  D   D O   O  D   D   I   P      A   A
+SSSS   UUU   BBBB   DDDD   OOO   DDDD   III  P     A   A
                                                  
     """
     print(ascii_art)
