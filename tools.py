@@ -47,7 +47,7 @@ def print_subdomains(subdomains, domain):
     else:
         print(f"{Fore.WHITE}[ ERR ] No subdomains found for {domain}.")
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     if len(sys.argv) != 3 or sys.argv[1] != '-s':
         print("Use : subdolist -s domain.name")
         sys.exit(1)
