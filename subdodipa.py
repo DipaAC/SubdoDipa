@@ -48,7 +48,7 @@ def print_subdomains(subdomains, domain):
 
 if __name__ == "__main__":
     if len(sys.argv) != 3 or sys.argv[1] != '-s':
-        print("Use : subdolist -s domain.name")
+        print("Use : subdodipa -s domain.name")
         sys.exit(1)
 
     domain = sys.argv[2]
