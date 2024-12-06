@@ -13,7 +13,7 @@ SSSS   UUU   BBBB   DDDD   OOO   DDDD   III  P     A   A
                                                  
     """
     print(ascii_art)
-    print(f"{Fore.YELLOW}[ INF ] This tool is currently in beta testing. We welcome your feedback to improve its functionality.")
+    print(f"{Fore.YELLOW}[ INF ] Tools sedang berjalan mohon menunggu beberapa saat (Terima kasih telah menggunakan DIPA TOOLS).")
     print()
 
 def get_subdomains(domain):
